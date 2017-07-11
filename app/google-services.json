@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "384280378136",
+    "firebase_url": "https://fir-loginregistration-953ed.firebaseio.com",
+    "project_id": "fir-loginregistration-953ed",
+    "storage_bucket": "fir-loginregistration-953ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384280378136:android:0627cb805bfc4025",
+        "android_client_info": {
+          "package_name": "com.example.breezil.firebaseloginregistration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384280378136-a6qr6nc49j7r17ugnij9g8lvmlov2ru1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGv1Dn5yIYEWtn2wRnbCVio0bDMpbAsHQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
